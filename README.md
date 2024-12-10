@@ -1,2 +1,2 @@
-# softball-gallery
+# Softball Gallery
 Softball Gallery
